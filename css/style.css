@@ -77,3 +77,14 @@ p {
     justify-content: space-between;
     padding: 25px 0;
 }
+
+.eth .days {
+    display: flex;
+    align-items: center;
+}
+
+.eth p {
+    color: hsl(178, 100%, 50%);
+    font-weight: 600;
+    padding-left: 7px;
+}
