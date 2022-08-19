@@ -12,10 +12,8 @@ body {
     display: flex;
 }
 
-
-
-
-    
-
-
-
+.container {
+    min-width: 375px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
